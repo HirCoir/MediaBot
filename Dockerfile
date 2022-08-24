@@ -17,5 +17,6 @@ RUN apk add --no-cache \
       libwebp-tools
 RUN apk add npm
 WORKDIR /app
+RUN npm install
 COPY ./ ./
 CMD ["node", "."]
