@@ -40,7 +40,7 @@ Mediabot es un ChatBot de Whatsapp  basado en el proyecto  **[Baileys](https://g
 
     docker build -t mediabot .
 
-    docker run -d -it --name=mediabot restart=always mediabot
+    docker run -d -it --name=mediabot --restart=always mediabot
 ## Iniciar el contenedor con límite de RAM
 
-    docker run -d -it --name=mediabot restart=always --memory=500mb mediabot
+    docker run -d -it --name=mediabot --restart=always --memory=500mb mediabot
