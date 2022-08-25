@@ -27,21 +27,19 @@ Mediabot es un ChatBot de Whatsapp  basado en el proyecto  **[Baileys](https://g
 
     # Instalamos dependencias.
     sudo apt install -y git ffmpeg imagemagick webp nodejs npm
-    #Clonamos el repo.
+    
     git clone https://github.com/HirCoir/MediaBot
     cd MediaBot
     npm install
-    # Ejecutamos el Bot
     npm start
 ## Instalar usando Docker.
 ### 
 
-    # Clonamos el repo.
     git clone https://github.com/HirCoir/MediaBot
     cd MediaBot
-    # Construimos el contenedor
+
     docker build -t mediabot .
-    # Iniciamos el contenedor
+
     docker run -d -it --name=mediabot restart=always mediabot
 ## Iniciar el contenedor con límite de RAM
 
