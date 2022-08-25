@@ -3,8 +3,11 @@
 Mediabot es un ChatBot de Whatsapp  basado en el proyecto  **[Baileys](https://github.com/adiwajshing/Baileys)**.  A su vez este proyecto es base de [otro](https://github.com/DikaArdnt/Hisoka-Morou) el cuál solo se dejó las características que aún funcionan.
 ## Características
 ° Reproducir videos de YouTube
+
 ° Descargar MP3 y Videos de YouTube
+
 ° Navegar en Google
+
 ° Navegar/Descargar en Google Images
 ° Descargar de Pinterest
 ° Descargar imagenes de Wikimedia
