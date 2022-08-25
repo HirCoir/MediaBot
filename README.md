@@ -9,10 +9,15 @@ Mediabot es un ChatBot de Whatsapp  basado en el proyecto  **[Baileys](https://g
 ° Navegar en Google
 
 ° Navegar/Descargar en Google Images
+
 ° Descargar de Pinterest
+
 ° Descargar imagenes de Wikimedia
+
 ° Descargar Tono de llamada
+
 ° SpeedTest
+
 ° Ver información de servidor
 
 ## Instalación
